@@ -1,0 +1,13 @@
+.hoverOn:hover {
+    cursor: pointer;
+    color: #007BFF;
+}
+.bg-def{
+    /* background-color: #E9ECEF !important; */
+    background: transparent;
+    /* border: 1px dotted; */
+}
+.w-15{
+    width: 180px !important;
+    /* background: lime; */
+}

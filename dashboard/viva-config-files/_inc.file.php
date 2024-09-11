@@ -1,0 +1,18 @@
+<?php
+    session_start();
+    include_once('_conf.inc.php');
+    include_once('_generalConfig.php');
+    include_once('viva-model-box/pos.model.php');
+    include_once('viva-model-box/product.model.php');
+    include_once('viva-model-box/message.model.php');
+    include_once('viva-model-box/error.model.php');
+    include_once('viva-model-box/model.facilitateur.php');
+    include_once('viva-model-box/mssg.model.php');
+    include_once('viva-model-box/fclllr.model.php');
+    include_once('viva-model-box/model.cours.php');
+    include_once('viva-model-box/model.categ.php');
+    include_once('viva-model-box/stdt.model.php');
+    include_once('viva-model-box/model.formation.php');
+    include_once('viva-model-box/model.leaner.php');
+    include_once('_thread.php');
+?>

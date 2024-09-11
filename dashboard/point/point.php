@@ -1,0 +1,1 @@
+<?php include('../viva-config-files/_inc.file.php'); ?>

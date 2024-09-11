@@ -1,0 +1,9 @@
+<?php 
+    if(isset($_SESSION['reitec-std-session'])){
+        unset($_SESSION['reitec-std-session']);
+        unset($_SESSION['ident-me']);
+?>
+    <script>window.location.replace('?page=signin')</script>
+<?php
+    }
+?>
